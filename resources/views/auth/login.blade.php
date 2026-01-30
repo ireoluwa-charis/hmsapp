@@ -68,7 +68,7 @@
     </form>
     <div class="links">
       <p>Don't have an account? <a href="/register">Register</a></p>
-      <p><a href="about.html">About Us</a></p>
+      <p><a href="/about">About Us</a></p>
     </div>
   </div>
 </body>

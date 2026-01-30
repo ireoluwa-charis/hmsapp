@@ -70,8 +70,8 @@
       <button type="submit">Register</button>
     </form>
     <div class="links">
-      <p>Already have an account? <a href="login.html">Login</a></p>
-      <p><a href="about.html">About Us</a></p>
+      <p>Already have an account? <a href="/login">Login</a></p>
+      <p><a href="/about">About Us</a></p>
     </div>
   </div>
 </body>

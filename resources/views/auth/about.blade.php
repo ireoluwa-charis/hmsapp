@@ -59,8 +59,8 @@
     <h2>Contact</h2>
     <p>For inquiries, feel free to reach out via email or follow us on our social media platforms.</p>
     <div class="links">
-      <a href="login.html">Login</a>
-      <a href="register.html">Register</a>
+      <a href="/login">Login</a>
+      <a href="/register">Register</a>
     </div>
   </div>
 </body>
